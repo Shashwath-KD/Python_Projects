@@ -1,1 +1,1 @@
-PONG GAME MADE USING THE PYGAME-CE LIBRARY 
+Pong Game made using the pygame-ce library
